@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var str = "Hello How are you";
+var str2 = 'Hello How are you';
+var str3 = `Hello How are you`;
+var age = 30;
+var userName = "Anil sidhu";
+var info = `my name is ${userName} and age is ${age} years`;
+console.log(info);
+var num = 100;
+// var data:string = num.toString();
+// var data:string = " "+ num;
+var boolData = true;
+// var data:string = boolData.toString();
+// var data:string = "" +boolData;
+// var item:boolean=true;
+// var other:boolean;
+// other=item
+// console.log(other);
+var str10 = "hey this is anil";

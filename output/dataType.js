@@ -4,6 +4,7 @@
 // var male:true;
 // var college:string="IET alwar"
 // var name1="sam"
+Object.defineProperty(exports, "__esModule", { value: true });
 // console.log(userName)
 // console.log(age)
 // console.log(college)
